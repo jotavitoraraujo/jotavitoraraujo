@@ -1,28 +1,28 @@
-<h1 align="left">joao_araujo = construtor_software</h1>
+<h1 align="center">joao_araujo = construtor_software</h1>
 
 ###
 
-<h5 align="left">'Se meu perfil parece um script, é porque a lógica e a estrutura estão em tudo que eu construo.'</h5>
+<h5 align="center">'Se meu perfil parece um script, é porque a lógica e a estrutura estão em tudo que eu construo.'</h5>
 
 ###
 
-<h2 align="left">sobre_mim = [</h2>
+<h2 align="center">sobre_mim = [</h2>
 
 ###
 
-<h4 align="left">• 🏗️ Construtor de Software, trocando uma herança de tijolos e cimento por lógica e código para criar soluções robustas para problemas reais.<br><br>• 👨‍💻 Em transição de carreira, Analista de Suporte Jr para o Back-End, com foco total em Python, SQL e na arquitetura de sistemas de dados.<br><br>• 🚀 Desenvolvendo ativamente dois projetos de portfólio para provar minhas competências: GestãoFarma Simples (um sistema de gestão em POO) e want33d (um agente de análise dados financeiros utilizando API's).<br><br>• 🤝 Estou pronto para levar minha disciplina, minha paixão por resolver problemas e minha mentalidade de construtor para minha primeira oportunidade como Desenvolvedor Júnior.</h4>
+<h4 align="center">• 🏗️ Construtor de Software, trocando uma herança de tijolos e cimento por lógica e código para criar soluções robustas para problemas reais.<br><br>• 👨‍💻 Em transição de carreira, Analista de Suporte Jr para o Back-End, com foco total em Python, SQL e na arquitetura de sistemas de dados.<br><br>• 🚀 Desenvolvendo ativamente dois projetos de portfólio para provar minhas competências: GestãoFarma Simples (um sistema de gestão em POO) e want33d (um agente de análise dados financeiros utilizando API's).<br><br>• 🤝 Estou pronto para levar minha disciplina, minha paixão por resolver problemas e minha mentalidade de construtor para minha primeira oportunidade como Desenvolvedor Júnior.</h4>
 
 ###
 
-<h2 align="left">]</h2>
+<h2 align="center">]</h2>
 
 ###
 
-<h2 align="left">contatos = (linkedin,</h2>
+<h2 align="center">contatos = (linkedin,</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/joaoaraujo-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -33,11 +33,11 @@
 
 ###
 
-<h2 align="left">insta, )</h2>
+<h2 align="center">insta, )</h2>
 
 ###
 
-<h2 align="left">git status</h2>
+<h2 align="center">git status</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">git commit -m "docs: minha atividade disciplinada"</h2>
+<h2 align="center">git commit -m "docs: minha atividade disciplinada"</h2>
 
 ###
 
@@ -58,11 +58,11 @@
 
 ###
 
-<h2 align="left">class Linguagem: def __init__(self, python, sqlite):</h2>
+<h2 align="center">class Linguagem: def __init__(self, python, sqlite):</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
@@ -70,11 +70,11 @@
 
 ###
 
-<h2 align="left">class Ferramentas: def __init__(self, git, github, vs_code):</h2>
+<h2 align="center">class Ferramentas: def __init__(self, git, github, vs_code):</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -84,17 +84,17 @@
 
 ###
 
-<h2 align="left">print(filosofia_construtor)</h2>
+<h2 align="center">print(filosofia_construtor)</h2>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">Para mim, o "aprender construindo" é mais do que um método, é uma filosofia. Acredito que a teoria nos dá a "planta baixa", mas é no "canteiro de obras" do código que a estrutura realmente ganha vida. Por isso, estou sempre buscando transformar os fundamentos que estudo em projetos práticos e funcionais.<br><br>Minha "obra" está sempre aberta a novas ideias e colaborações. Se você se interessa por desenvolvimento back-end, arquitetura de software ou simplesmente quer trocar uma ideia sobre a construção de soluções, vamos nos conectar!</h4>
+<h4 align="center">Para mim, o "aprender construindo" é mais do que um método, é uma filosofia. Acredito que a teoria nos dá a "planta baixa", mas é no "canteiro de obras" do código que a estrutura realmente ganha vida. Por isso, estou sempre buscando transformar os fundamentos que estudo em projetos práticos e funcionais.<br><br>Minha "obra" está sempre aberta a novas ideias e colaborações. Se você se interessa por desenvolvimento back-end, arquitetura de software ou simplesmente quer trocar uma ideia sobre a construção de soluções, vamos nos conectar!</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/joaoaraujo-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
