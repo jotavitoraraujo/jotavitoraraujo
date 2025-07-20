@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">git commit -m "docs: minha atividade disciplinada"</h3>
+<h2 align="left">git commit -m "docs: minha atividade disciplinada"</h2>
 
 ###
 
