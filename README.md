@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">• 🏗️ Construtor de Software, trocando uma herança de tijolos e cimento por lógica e código para criar soluções robustas para problemas reais.<br><br>• 👨‍💻 Em transição de carreira, Analista de Suporte Jr para o Back-End, com foco total em Python, SQL e na arquitetura de sistemas de dados.<br><br>• 🚀 Desenvolvendo ativamente dois projetos de portfólio para provar minhas competências: GestãoFarma Simples (um sistema de gestão em POO) e want33d (um agente de análise dados financeiros utilizando API's).<br><br>• 🤝 Estou pronto para levar minha disciplina, minha paixão por resolver problemas e minha mentalidade de construtor para minha primeira oportunidade como Desenvolvedor Júnior.</h4>
+<h4 align="center">• Construtor de Software, trocando uma herança de tijolos e cimento por lógica e código para criar soluções robustas para problemas reais.<br><br>• Em transição de carreira, Analista de Suporte Jr para o Back-End, com foco total em Python, SQL e na arquitetura de sistemas de dados.<br><br>• Desenvolvendo ativamente dois projetos de portfólio para provar minhas competências: GestãoFarma Simples (um sistema de gestão em POO) e want33d (um agente de análise dados financeiros utilizando API's).<br><br>• Estou pronto para levar minha disciplina, minha paixão por resolver problemas e minha mentalidade de construtor para minha primeira oportunidade como Desenvolvedor Júnior.</h4>
 
 ###
 
